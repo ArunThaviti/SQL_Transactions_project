@@ -292,10 +292,10 @@ select city,
 		(five_hundredth_transaction_date - first_transaction_date) as days_to_reach_500
 from FirstAnd500th
 where (five_hundredth_transaction_date - first_transaction_date) = (
-																		select 
-																			min((five_hundredth_transaction_date - first_transaction_date))
-																		from FirstAnd500th
-																	);
+									select 
+									min((five_hundredth_transaction_date - first_transaction_date))
+									from FirstAnd500th
+									);
 
 
 

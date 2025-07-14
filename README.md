@@ -56,4 +56,3 @@ The following business questions were addressed using SQL queries with a focus o
 10. ✅ **Fastest City to Reach 500 Transactions**
     - Determined which city reached its 500th transaction the quickest after its first transaction.
 
-## 📁 Project Structure

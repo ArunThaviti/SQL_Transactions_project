@@ -1,4 +1,4 @@
-
+# Credit_Card_Transactions
 
 📊 **A PostgreSQL-based SQL Analysis Project on Credit Card Transactions**
 

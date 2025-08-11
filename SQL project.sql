@@ -304,3 +304,4 @@ where (five_hundredth_transaction_date - first_transaction_date) = (
 
 
 
+
